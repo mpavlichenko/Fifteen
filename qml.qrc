@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WinWindow.qml</file>
+        <file>engine.js</file>
+    </qresource>
+</RCC>
